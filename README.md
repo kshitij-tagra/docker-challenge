@@ -1,4 +1,4 @@
-# docker-challenge-midterm
+# docker-challenge
 
 This repository contains my solutions for two Docker challenges as part of my midterm/final project. The challenges focus on containerizing applications using Docker and Docker Compose.
 
